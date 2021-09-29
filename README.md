@@ -1,1 +1,4 @@
-# knn_classficiation
+# KNN Classfication
+Normalization Method
+- MinMaxScaler
+- Z Score
